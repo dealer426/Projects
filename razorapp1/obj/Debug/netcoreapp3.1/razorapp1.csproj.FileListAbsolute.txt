@@ -33,3 +33,8 @@ C:\Users\burns\Documents\Apps\Projects\razorapp1\obj\Debug\netcoreapp3.1\razorap
 C:\Users\burns\Documents\Apps\Projects\razorapp1\obj\Debug\netcoreapp3.1\razorapp1.dll
 C:\Users\burns\Documents\Apps\Projects\razorapp1\obj\Debug\netcoreapp3.1\razorapp1.pdb
 C:\Users\burns\Documents\Apps\Projects\razorapp1\obj\Debug\netcoreapp3.1\razorapp1.csproj.CopyComplete
+C:\Users\burns\Documents\Apps\Projects\razorapp1\bin\Debug\netcoreapp3.1\published\web.config
+C:\Users\burns\Documents\Apps\Projects\razorapp1\bin\Debug\netcoreapp3.1\published\appsettings.Development.json
+C:\Users\burns\Documents\Apps\Projects\razorapp1\bin\Debug\netcoreapp3.1\published\appsettings.json
+C:\Users\burns\Documents\Apps\Projects\razorapp1\bin\Debug\netcoreapp3.1\published\razorapp1.deps.json
+C:\Users\burns\Documents\Apps\Projects\razorapp1\bin\Debug\netcoreapp3.1\published\razorapp1.runtimeconfig.json
