@@ -1,0 +1,2 @@
+2020-01-09 10:32:27.6322|Default|0HLSL33RGNRO1:00000015||Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|WARN|No XML encryptor configured. Key {05c047d8-3ada-45bb-a084-4fc7fb54faca} may be persisted to storage in unencrypted form. 
+2020-01-09 10:33:05.3344||||OrchardCore.Modules.ModularBackgroundService|ERROR|'ModularBackgroundService' is stopping. 
