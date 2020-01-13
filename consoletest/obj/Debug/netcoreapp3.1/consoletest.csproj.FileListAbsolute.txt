@@ -1,0 +1,11 @@
+C:\Users\burns\Documents\Apps\Projects\consoletest\bin\Debug\netcoreapp3.1\consoletest.exe
+C:\Users\burns\Documents\Apps\Projects\consoletest\bin\Debug\netcoreapp3.1\consoletest.deps.json
+C:\Users\burns\Documents\Apps\Projects\consoletest\bin\Debug\netcoreapp3.1\consoletest.runtimeconfig.json
+C:\Users\burns\Documents\Apps\Projects\consoletest\bin\Debug\netcoreapp3.1\consoletest.runtimeconfig.dev.json
+C:\Users\burns\Documents\Apps\Projects\consoletest\bin\Debug\netcoreapp3.1\consoletest.dll
+C:\Users\burns\Documents\Apps\Projects\consoletest\bin\Debug\netcoreapp3.1\consoletest.pdb
+C:\Users\burns\Documents\Apps\Projects\consoletest\obj\Debug\netcoreapp3.1\consoletest.csprojAssemblyReference.cache
+C:\Users\burns\Documents\Apps\Projects\consoletest\obj\Debug\netcoreapp3.1\consoletest.AssemblyInfoInputs.cache
+C:\Users\burns\Documents\Apps\Projects\consoletest\obj\Debug\netcoreapp3.1\consoletest.AssemblyInfo.cs
+C:\Users\burns\Documents\Apps\Projects\consoletest\obj\Debug\netcoreapp3.1\consoletest.dll
+C:\Users\burns\Documents\Apps\Projects\consoletest\obj\Debug\netcoreapp3.1\consoletest.pdb
